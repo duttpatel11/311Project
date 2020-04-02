@@ -3,6 +3,9 @@ public class hello {
 	public void doSoemthingIntering() {
 		int a = 10;
 		int b = 20;
+		a = a - 2;
+		a = a - b;
+		a = a+b;
 		a = a* b;
 		a = a + b;
 		a = a * b + 2;
