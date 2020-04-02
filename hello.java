@@ -4,6 +4,9 @@ public class hello {
 		int a = 10;
 		int b = 20;
 		a = a* b;
+		a = a + b;
+		a = a * b + 2;
+		
 
 	}
 	public static void main{String[] args} {
